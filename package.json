@@ -1,0 +1,14 @@
+{
+  "name": "001-hello-heroku-node",
+  "version": "1.0.0",
+  "description": "Example of deploying to Heroku",
+  "main": "app.js",
+  "engines": {
+    "node": "4.2.2"
+  },
+  "author": {
+    "name": "Sergio F. Gonzalez",
+    "email": "sergio.f.gonzalez@gmail.com"
+  },
+  "license": "ISC"
+}
